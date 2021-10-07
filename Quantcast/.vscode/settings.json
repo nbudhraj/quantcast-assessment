@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/navibudhraja/Dropbox/My Mac (MacBook Pro (160))/Downloads/junit-platform-console-standalone-1.8.1.jar"
+    ]
+}
